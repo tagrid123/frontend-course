@@ -1,0 +1,34 @@
+body: {
+    margin:0;
+}
+div {
+    width: 600px;
+    margin: auto;
+    padding: 20px;
+    text-align: justify;
+    font-size: 18px;
+    
+}
+span {
+    font-size:25px;
+    font-weight: bold;
+    color: #000;
+    display:block;
+    margin:-10px 15px 5px -5px;
+    padding:5px;
+    float:left;
+}
+.lolokati {
+    width: 300px;
+    border:1px solid #000;
+    margin:10px 0px 10px 3px;
+    float: left;
+    position: relative;
+    right:140px;
+    
+}
+.cat-little {
+    width: 289px;
+    background-color: #0F0;
+    color:#000;
+}
